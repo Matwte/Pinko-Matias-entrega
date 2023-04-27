@@ -1,0 +1,29 @@
+*{
+    font-family: Arial;
+}
+
+li{
+    list-style-type: none;
+padding: 20px;}
+.mb20{margin-bottom: 20px;}  
+.mt20{margin-top: 20px;} 
+.p20{padding: 20px;}
+
+
+
+header{
+    background-color:snow ;
+    position: sticky;
+    padding: 10px;
+   
+}
+
+
+header, ul, footer {
+    display: flex; 
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+
